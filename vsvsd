@@ -1,0 +1,4 @@
+git config --global user.name "Михаил Мороз"
+git config --global user.email "moroz.mkhl@gmail.com"
+git config --global github.user morozmkhl
+git config --global github.token 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
